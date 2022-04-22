@@ -1,1 +1,2 @@
-# 3C-mihooo-666
+# moja prva stranka hello world
+blalblabla avada kedrabra
